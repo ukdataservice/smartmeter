@@ -19,8 +19,7 @@ col_types = cols(id = col_character(),
 lcl = read_csv(url, col_names = col_names, col_types = col_types, skip = 1)
 
 ## Write the "lcl" data frame as a feather file.
-file_path = "~/Desktop/lcl.feather"
-write_feather(lcl, file_path)
+write_feather(lcl, "lcl.feather")
 
 ## Read in feather file and have a look.
 df = read_feather(file_path)
