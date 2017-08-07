@@ -4,7 +4,7 @@ document that combines computer code, descriptions, and visualizations all in on
 makes it easy to develop, share, and reproduce code. You can either open these in [R Studio]
 or in a text editor of your choice, and save it as a `.html` or `.pdf` file. 
 
-For those of you planning on using a text editor to open/run the [R notebooks][R-nb]:
+For those of you planning on using a text editor to open/run the [R notebook][R-nb]:
 ```{r}
 ## Save your .Rmd file (R Notebook) in a directory of your choice. Then run the following:
 source("https://raw.githubusercontent.com/ukdataservice/SMRP/master/scripts/utils.R")
@@ -16,7 +16,5 @@ rmarkdown::render("path/to/Rnotebook.Rmd")                 # Edit the path as ap
 ```
 
 <!-- References -->
-[Py-lang]: https://docs.python.org/3/
-[R-lang]: https://www.r-project.org/about.html
-[Feather]: https://github.com/wesm/feather
+[R-nb]: http://rmarkdown.rstudio.com/r_notebooks.html
 [R Studio]: https://www.rstudio.com/products/rstudio/#Desktop
