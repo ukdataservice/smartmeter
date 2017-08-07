@@ -22,7 +22,7 @@ Some other good resources include:
 
 A number of small samples of smart meter datasets can be found in the `data` directory. 
 These have been converted into [`feather`][Feather] format for speed and seamless interoperability 
-between [`Python`][Py-lang] and [`R`][R-lang].
+between [`R`][R-lang] and other programming languages (e.g.  [`Python`][Py-lang]).
 
 ## Software
 A list of popular [`R`][R-lang] libraries for analyzing smart meter data is provided below. A hands-on tutorial can be found for each library in the [examples][smrp-examples] directory as an [R notebook][R-nb]. This is to ensure that the code provided is both readable and reproducible. We follow [Google's R Style Guide for R code][google-R-guide] for consistency and maintainability, with the exception of using `=` instead of `<-` for variable assignment. Whilst this is largely a matter of preference, `=` does allow for greater compatibility with other mainstream programming languages such as [`C`][C-lang], [`C++`][Cpp-lang], [`Java`][java-lang], etc, and generally results in less obscure bugs in code as it disallows assignment within control structures (e.g. `if()`).
