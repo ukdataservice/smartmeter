@@ -8,7 +8,7 @@ The table below lists some existing UK smart meter data sets available for downl
 
 Name | Period | No. of Households | No. of Obs. | Sample Freq. | Data Recorded | Obs. Type | Data Format | Data License | Meter Type 
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
-[Energy Demand Research Project][EDRP] |  2007-2010 |  14,000 | 400 million | 30  mins | Electricity, Gas | Aggregate | csv | [EULA] | SMETS 1*
+[Energy Demand Research Project][EDRP] |  2007-2010 |  14,000 | 400 million | 30  mins | Electricity, Gas | Aggregate | csv | [EULA] | [SMETS 1]
 [Low Carbon London Project][LCL] |  2013-2014 | 5,536  | 100 million | 30 mins | Electricity | Aggregate | csv | Open | [SMETS 1]
 [REFIT Electrical Load Measurements][REFIT] | 2015-2017 | 20 | 1 billion | 8 seconds | Electricity | Aggregate, Appliance | csv |  Open | Own device
 [UK Domestic Appliance-Level Electricity][UK-DALE] | 2015-2017 | 5 | 1 billion |6-8 seconds | Electricity | Aggregate, Appliance | csv, FLAC | Open | Own device |
