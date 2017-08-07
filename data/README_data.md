@@ -1,8 +1,13 @@
+
 ## Data
-All the data are provided in [`feather`][Feather] format for speed and seamless interoperability between 
-[`R`][R-lang] and other programming languages (e.g.  [`Python`][Py-lang]). [`feather`][Feather] is a 
-binary file format for storing data frames. It is language-agnostic, i.e. [`feather`][Feather] files 
-are the same whether implemented in [`R`][R-lang] or another language like [`Python`][Py-lang].
+All the data are provided in [`feather`][Feather] format for speed and
+seamless interoperability between [`R`][R-lang] and other programming
+languages (e.g.  [`Python`][Py-lang]). [`feather`][Feather] is a binary
+file format for storing *data frames*, a.k.a. *spreadsheets*.
+[`feather`][Feather] is language-agnostic, i.e. [`feather`][Feather] files
+are the same whether implemented in [`R`][R-lang] or another language like
+[`Python`][Py-lang].
+
 
 Here's some code to install and use the [`feather`][Feather] package in [`R`][R-lang]: 
 ```{r}
