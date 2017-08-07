@@ -6,8 +6,8 @@ languages (e.g.  [`Python`][Py-lang]). [`feather`][Feather] is a binary
 file format for storing *data frames*, a.k.a. *spreadsheets*.
 [`feather`][Feather] is language-agnostic, i.e. [`feather`][Feather] files
 are the same whether implemented in [`R`][R-lang] or another language like
-[`Python`][Py-lang].
-
+[`Python`][Py-lang]. A simple [`R`][R-lang] for producing the
+[`feather`][Feather] file is also included with each data set.
 
 Here's some code to install and use the [`feather`][Feather] package in [`R`][R-lang]: 
 ```{r}
