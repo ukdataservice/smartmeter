@@ -1,4 +1,4 @@
-# Smart Meter Research Portal (SMRP)
+# Smart Meter Wiki
 There are now over 5.8 million smart meters operating across homes and businesses in the UK, and this number is expected to rise to over 50 million by 2020, driven by the [Smart Meter Implementation Programme][smip]. This programme will provide high-resolution electricity and gas consumption data across millions of household across the UK, offering enormous potential for energy research and data-driven policymaking. However, the sheer volume of the data (e.g. > 20GB) means that even basic exploratory analysis is difficult using traditional desktop-driven methods of analysis. The aim of this page is to provide a curated list of useful software libraries and resources for analyzing smart meter data at scale. This list may also be useful for analyzing any regularly-spaced time series data, e.g. half-hourly weather data, monthly unemployment data, etc. 
 
 *Inspired by [awesome-python][awesome-python] and [awesome-R][awesome-R]*.
